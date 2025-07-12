@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHI2APe/7hg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\U\\IS\\Examen_final\\Examen-final-Ingenier-a-de-software-C12149\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\esteb\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
